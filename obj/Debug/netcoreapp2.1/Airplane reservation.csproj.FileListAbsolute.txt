@@ -1,0 +1,11 @@
+D:\Code\Airplane reservation\obj\Debug\netcoreapp2.1\Airplane reservation.csprojAssemblyReference.cache
+D:\Code\Airplane reservation\obj\Debug\netcoreapp2.1\Airplane reservation.csproj.CoreCompileInputs.cache
+D:\Code\Airplane reservation\obj\Debug\netcoreapp2.1\Airplane reservation.AssemblyInfoInputs.cache
+D:\Code\Airplane reservation\obj\Debug\netcoreapp2.1\Airplane reservation.AssemblyInfo.cs
+D:\Code\Airplane reservation\bin\Debug\netcoreapp2.1\Airplane reservation.deps.json
+D:\Code\Airplane reservation\bin\Debug\netcoreapp2.1\Airplane reservation.runtimeconfig.json
+D:\Code\Airplane reservation\bin\Debug\netcoreapp2.1\Airplane reservation.runtimeconfig.dev.json
+D:\Code\Airplane reservation\bin\Debug\netcoreapp2.1\Airplane reservation.dll
+D:\Code\Airplane reservation\bin\Debug\netcoreapp2.1\Airplane reservation.pdb
+D:\Code\Airplane reservation\obj\Debug\netcoreapp2.1\Airplane reservation.dll
+D:\Code\Airplane reservation\obj\Debug\netcoreapp2.1\Airplane reservation.pdb
